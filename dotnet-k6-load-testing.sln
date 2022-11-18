@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{CD4FFE00-E0A7-41F1-98CC-61DCDAFA00EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadTesting.API", "src\LoadTesting.API\LoadTesting.API.csproj", "{64F27805-1A66-4EE9-9899-CBCC92355DDB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tst", "tst", "{773EDC13-54BE-4AB8-A7E6-D5DA98878442}"
+	ProjectSection(SolutionItems) = preProject
+		controller-product.js = controller-product.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64F27805-1A66-4EE9-9899-CBCC92355DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F27805-1A66-4EE9-9899-CBCC92355DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F27805-1A66-4EE9-9899-CBCC92355DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F27805-1A66-4EE9-9899-CBCC92355DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{64F27805-1A66-4EE9-9899-CBCC92355DDB} = {CD4FFE00-E0A7-41F1-98CC-61DCDAFA00EA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0D2A251-2BB2-464F-A5DB-8976954515C9}
+	EndGlobalSection
+EndGlobal
