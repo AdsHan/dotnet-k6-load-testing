@@ -13,4 +13,4 @@ Demonstração de como podemos realizar testes de carga com criação de múltip
     ```
 	
 # Sobre
-Este projeto foi desenvolvido por Anderson Hansen sob [MIT license](LICENSE).
+Este projeto foi desenvolvido por Anderson Hansen.
